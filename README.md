@@ -1,6 +1,8 @@
 To get a brief knowledge about the project go through this ppt: 
 FONICY Skill Enhancement.pptx
 
+As the ppt is in raw format please download the ppt to view it :)
+
 Fonicy is a web-based architecture and construction service platform.
 
 REQUIREMENTS:
