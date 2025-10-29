@@ -1,0 +1,16 @@
+Fonicy is a web-based architecture and construction service platform.
+
+REQUIREMENTS:
+JAVA TEMURIN 17
+node - v24.10.0
+npm - 11.6.1(npm)
+maven - Apache Maven 3.9.11
+
+
+Reference Documentation
+For further reference,
+https://dlcdn.apache.org/maven/maven-3/3.9.11/binaries/apache-maven-3.9.11-bin.zip
+https://nodejs.org/dist/v24.11.0/node-v24.11.0-x64.msi
+https://adoptium.net/download?link=https%3A%2F%2Fgithub.com%2Fadoptium%2Ftemurin17-binaries%2Freleases%2Fdownload%2Fjdk-17.0.16%252B8%2FOpenJDK17U-jdk_x64_windows_hotspot_17.0.16_8.msi&vendor=Adoptium
+
+
